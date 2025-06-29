@@ -66,3 +66,4 @@ If you don't have Python installed, a standalone `.exe` version of this script i
 Script logic and formatting assisted by [Arovil Pradhan](https://github.com/arovilpradhan) during real-world SOC/VM projects with automation use cases.
 
 ---
+📄 [Click here to view the User Guide (PDF)](./Qualys_Report_Formatter_User_Guide.pdf)
